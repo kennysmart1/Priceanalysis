@@ -1,1 +1,1 @@
-This is a data analysis workspace
+This is my data analysis journey workspace
